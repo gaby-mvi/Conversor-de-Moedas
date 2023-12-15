@@ -110,7 +110,7 @@ section {
 
 @media screen and (max-width: 750px) {
     main {
-        height: 75%;
+        height: auto;
         padding: 12px;
     }
 
