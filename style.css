@@ -121,17 +121,5 @@ section {
     section {
         height: auto;
         padding: 8px;
-        display: inline-block;
-    }
-
-    .arrow-img {
-        height: auto;
-        rotate: 270deg;
-    }
-
-    .currency-box {
-        display: inline-block;
-        margin: 15px 10px;
-        text-align: center;
     }
 }
